@@ -22,7 +22,7 @@ body {
   margin: 0;
 }
 
-div {
+.thingies {
   flex: 1 1 30%;
   margin: 10px;
   min-width: 250px;
