@@ -64,3 +64,12 @@ form {
   transform: translateX(-50%);
   z-index: -1;
 }
+
+a {
+  text-decoration: none;
+  color: #C4C7C5;
+}
+
+a:hover {
+  text-decoration: underline;
+}
