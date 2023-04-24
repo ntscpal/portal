@@ -27,7 +27,7 @@ body {
   flex: 1 1 20%;
   min-width: 230px;
   text-align: center;
-  margin: 170px auto 0 auto;
+  margin: 310px auto 0 auto;
 }
 
 h1 {
@@ -40,7 +40,7 @@ form {
 
 #pfp {
   position: absolute;
-  top: -220px;
+  top: -85px;
   box-shadow: 0px 0px 18px white;
   border-radius: 50%;
   transition: transform .35s ease-in-out;
@@ -53,9 +53,9 @@ form {
 }
 
 #bigheader {
-  font-size: 3em;
+  font-size: 4em;
   font-style: italic;
-  margin-top: 110px;
+  margin-top: 243px;
   text-align: center;
   color:white;
   position: absolute;
